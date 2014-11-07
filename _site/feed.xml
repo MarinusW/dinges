@@ -3,10 +3,10 @@
   <channel>
     <title>Marinus Witteveen</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 06 Nov 2014 15:55:53 +0100</pubDate>
-    <lastBuildDate>Thu, 06 Nov 2014 15:55:53 +0100</lastBuildDate>
+    <link>http://marinusw.github.io/</link>
+    <atom:link href="http://marinusw.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 07 Nov 2014 15:34:16 +0100</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2014 15:34:16 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -20,8 +20,8 @@ Het weerbureau verwacht geen extreme wateroverlast zoals afgelopen maandag, omda
 Aan het begin van zaterdagmiddag bereikt een buiengebied de zuidgrens. Naarmate de buien verder noordwaarts trekken, worden ze zwaarder. In de nacht van zaterdag op zondag trekt de regen richting Duitsland weg en klaart het steeds meer op.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Aug 2014 19:18:36 +0200</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/08/01/zware-buien/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/08/01/zware-buien/</guid>
+        <link>http://marinusw.github.io/jekyll/update/2014/08/01/zware-buien/</link>
+        <guid isPermaLink="true">http://marinusw.github.io/jekyll/update/2014/08/01/zware-buien/</guid>
         
         
         <category>jekyll</category>
@@ -51,8 +51,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Thu, 31 Jul 2014 11:24:37 +0200</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/07/31/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/07/31/welcome-to-jekyll/</guid>
+        <link>http://marinusw.github.io/jekyll/update/2014/07/31/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://marinusw.github.io/jekyll/update/2014/07/31/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
