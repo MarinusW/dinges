@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marinus Witteveen</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 06 Nov 2014 15:55:53 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2014 15:55:53 +0100</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Zware buien</title>
+        <description>&lt;p&gt;Flinke regenbuien kunnen mogelijk in de loop van zaterdag over het land trekken. De buien kunnen uitgroeien tot een lijn van zware buien, samen met onweer, hagel en windstoten tot 80 km/uur.&lt;/p&gt;
+
+&lt;h3 id=&quot;zware-buien-verwacht-op-zaterdag&quot;&gt;Zware buien verwacht op zaterdag&lt;/h3&gt;
+
+&lt;p&gt;Weerplaza.nl raadt vooral aan bij buitenactiviteiten, zoals watersport, zaterdag de weerberichten goed in de gaten te houden.
+Het weerbureau verwacht geen extreme wateroverlast zoals afgelopen maandag, omdat de buien snel bewegen.
+Aan het begin van zaterdagmiddag bereikt een buiengebied de zuidgrens. Naarmate de buien verder noordwaarts trekken, worden ze zwaarder. In de nacht van zaterdag op zondag trekt de regen richting Duitsland weg en klaart het steeds meer op.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Aug 2014 19:18:36 +0200</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2014/08/01/zware-buien/</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/08/01/zware-buien/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welkom bij Jekyll!</title>
+        <description>&lt;blockquote&gt;
+    Marinus Witteveen
+&lt;/blockquote&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt; and &lt;a href=&quot;http://www.nu.nl&quot;&gt;nieuws op nu.nl&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 31 Jul 2014 11:24:37 +0200</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2014/07/31/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/07/31/welcome-to-jekyll/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
